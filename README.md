@@ -5,42 +5,6 @@
 
 🔗 **Live Website:** [https://skillproof-fullstack-code.vercel.app/](https://skillproof-fullstack-code.vercel.app/)
 
----
-
-## 📸 Platform Showcase
-
-### 1. The Landing Page
-![Landing Page](./screenshots/landing.png)
-*(Placeholder: Update with new Full-Stack Landing Page screenshot)*
-
-### 2. Student Skill Dashboard
-The centralized hub showing verified scores, skill breakdown, and real-time alerts for incoming recruiter interview requests.
-![Student Dashboard - Top](./screenshots/dashboard1.png)
-*(Placeholder: Add screenshot showing the new Blue Pending Invite Banner)*
-
-### 3. Live AI Interview IDE (Powered by Gemini)
-An immersive testing environment where students solve real-world problems. Answers are submitted directly to the Node.js backend and rigorously evaluated in real-time by the Google Gemini AI.
-![Live AI Interview IDE](./screenshots/AIinterview.png)
-
-### 4. Career Twin (AI Advisor)
-Context-aware chatbot providing personalized career roadmaps and readiness checks based on the student's verified MongoDB profile.
-![Career Twin](./screenshots/careerTwin.png)
-
-### 5. Smart Job Search
-Curated opportunities dynamically matched against the candidate's verified skills, complete with AI-generated match scores and missing skill gap analysis.
-![Job Search](./screenshots/jobSearch.png)
-
-### 6. ATS Resume Polish
-Instant, actionable feedback powered by Gemini to ensure your uploaded resume bypasses strict ATS filters against a target Job Description.
-![ATS Polish](./screenshots/ATSpolish.png)
-
-### 7. Recruiter Candidate Discovery & ATS
-A powerful dashboard for recruiters to instantly discover pre-vetted talent, view GitHub stats, and manage **Live AI Interview Invites**.
-![Recruiter Dashboard - Candidate Grid](./screenshots/recruiter1.png)
-*(Placeholder: Add screenshot of the new "Sent Invites" Tracker Tab showing Pending/Completed invites)*
-
----
-
 ## 📖 The Problem
 
 The current tech hiring process is fundamentally broken for both sides of the table:
@@ -125,5 +89,4 @@ You will need two terminal windows to run both the frontend and the backend.
 3. **Automated Grading Validation:** Log back in as the Recruiter, go to the Sent Invites tab, and witness the invite turn green. Click **View Full Result** to see the exact AI feedback stored in the database!
 4. **Career Twin / ATS Scoring:** Test out the dynamic Gemini integrations by asking the Career Twin for advice or uploading a Job Description text in the ATS Polish module.
 
----
-*Built with ❤️ for Nerds Hack Days, Lucknow.*
+Team- codecartel
